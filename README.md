@@ -2,7 +2,7 @@
 
 Companion repository for the article:
 
-"Full Paper Title"
+"Generative Modeling of Opinion Roles in Low-Resource Settings via Multi-Task and Transfer Learning"
 
 - [Seyed Abolghasem Mirroshandel](https://scholar.google.com/citations?user=WGH3eIsAAAAJ&hl=en)
 - [Arash Yousefi Jordehi](https://scholar.google.com/citations?user=HLM9w-sAAAAJ&hl=en)
